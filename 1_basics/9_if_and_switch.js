@@ -39,3 +39,5 @@ switch (englishDay) {
     break;
 }
 console.log(koreanDay);
+
+
